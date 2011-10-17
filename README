@@ -1,3 +1,7 @@
+THE SOURCE CODE CONTAINED IN THIS REPOSITORY IS THE SOLE PROPERTY OF INKTEL DIRECT.
+YOU ARE THEREBY PROHIBITED FROM COPYING, DISTRIBUTING, MODIFYING, OR DOWNLOADING OF THIS SOURCE CODE
+UNLESS YOU HAVE BEEN GIVEN EXPRESS WRITTEN PERMISSION FROM A DIRECTOR OF INKTEL DIRECT CORPORATION.
+
 Welcome to Inktelx's GitHub repository
 
 Inktelx is a revolutionary communications platform provided by Inktel Direct's Application Services team. 
@@ -23,3 +27,5 @@ The directory structure is currently setup as follows:
 2. Inktelx.Engine - contains all business rules associated with the Inktelx solution.
 
 3. Inktelx.Web - stores the MVC web application for Inktelx 
+
+Copyright (c) 2011. All rights reserved. Inktel Direct Corporation.
