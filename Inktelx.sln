@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inktelx.Web", "Inktelx.Web\Inktelx.Web.csproj", "{BD23554C-E534-4345-B637-BCA327E5F56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inktelx.Engine", "Inktelx.Engine\Inktelx.Engine.csproj", "{91A21AF7-3856-4549-8E8C-DA9569FE7C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inktelx.Data", "Inktelx.Data\Inktelx.Data.csproj", "{B7118AAB-DF94-4FC3-97EF-FF018EFF5A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A21AF7-3856-4549-8E8C-DA9569FE7C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A21AF7-3856-4549-8E8C-DA9569FE7C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A21AF7-3856-4549-8E8C-DA9569FE7C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A21AF7-3856-4549-8E8C-DA9569FE7C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7118AAB-DF94-4FC3-97EF-FF018EFF5A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7118AAB-DF94-4FC3-97EF-FF018EFF5A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7118AAB-DF94-4FC3-97EF-FF018EFF5A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7118AAB-DF94-4FC3-97EF-FF018EFF5A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD23554C-E534-4345-B637-BCA327E5F56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD23554C-E534-4345-B637-BCA327E5F56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD23554C-E534-4345-B637-BCA327E5F56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD23554C-E534-4345-B637-BCA327E5F56C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Inktelx.Web\Inktelx.Web.csproj
+	EndGlobalSection
+EndGlobal
